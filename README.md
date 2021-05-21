@@ -1,8 +1,8 @@
 ## Safety_Doors
-<Разработка алгоритма детекции людей и посторонних объектов в области портала двери пассажирского общественного транспорта>
+Development of an algorithm for detecting people and foreign objects in the area of the portal of the door of passenger public transport.
 
-Контроль закрытия дверей на общественном транспорте осуществляется на уровне механизмов дверей и посредством визуального контроля водителя или машиниста в зеркало заднего вида, или не осуществляется вовсе. Бывают случаи, когда этот контроль невозможно осуществить по разным причинам: погодные условия, темное время суток, станции в кривых.
+Control of door closing in public transport is carried out at the level of door mechanisms and through visual control of the driver or driver in the rear-view mirror. There are times when this control is impossible for various reasons: weather conditions, night time, stations in curves.
 
-При этом нельзя забывать о человеческом факторе: водитель или машинист может отвлечься, а человек совершает действия по посадке высадке в момент срабатывания автоматики дверей, происходит зажатие пассажиров механизмами дверей, что может привести к травматическим случаям. Для предотвращения подобных ситуаций возможность визуального контроля портала дверей человеком недостаточна.
+At the same time, one should not forget about the human factor: the driver or driver may be distracted, and the person performs the action of landing and disembarking at the moment the door automation is triggered, the passengers of the door mechanism are clamped, which can lead to traumatic accidents. To prevent such cases, visual control of the door portal by a person is insufficient.
 
-Для исключения подобных ситуаций предлагается разработать метод определения наличия объектов в проеме портала дверей электропоезда на основе данных с камер глубины двух типов (ToF камеры и 3D стерео камеры), установленных над порталом дверей на платформе «Крымская» Московского центрального кольца.
+To exclude the proposed methods of testing the portal of doors on the Krymskaya platform of the Moscow Central Ring.
