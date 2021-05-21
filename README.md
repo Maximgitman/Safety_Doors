@@ -1,4 +1,5 @@
 ## Safety_Doors
+<img src="https://media.giphy.com/media/xT9KVuOrJRZ6jgIPsI/giphy.gif" width="1024" height="512" />
 Development of an algorithm for detecting people and foreign objects in the area of the portal of the door of passenger public transport.
 
 Control of door closing in public transport is carried out at the level of door mechanisms and through visual control of the driver or driver in the rear-view mirror. There are times when this control is impossible for various reasons: weather conditions, night time, stations in curves.
