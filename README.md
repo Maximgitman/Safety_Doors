@@ -1,10 +1,10 @@
 ## Safety_Doors
 <img src="https://media.giphy.com/media/HUMPNptsAyn9cVHoR5/giphy.gif" width="512" height="128" />
 <img src="https://media.giphy.com/media/kudUX14TURTmUtlTwg/giphy.gif" width="1500" height="300" />
-Development of an algorithm for detecting people and foreign objects in the area of the portal of the door of passenger public transport.
+Development of an algorithm for detecting individuals and foreign objects in the vicinity of the doorway of passenger public transport.
 
-Control of door closing in public transport is carried out at the level of door mechanisms and through visual control of the driver or driver in the rear-view mirror. There are times when this control is impossible for various reasons: weather conditions, night time, stations in curves.
+The control of door closure in public transport is typically managed through door mechanisms and visual checks by the driver or rear-view mirror monitoring. However, there are circumstances when conducting such controls becomes impractical due to factors like adverse weather conditions, nighttime, or when stations are curved.
 
-At the same time, one should not forget about the human factor: the driver or driver may be distracted, and the person performs the action of landing and disembarking at the moment the door automation is triggered, the passengers of the door mechanism are clamped, which can lead to traumatic accidents. To prevent such cases, visual control of the door portal by a person is insufficient.
+Simultaneously, the human factor should not be overlooked: the driver might be distracted, and passengers might be in the process of boarding or disembarking precisely when the door automation initiates. This situation can result in passengers getting caught in the door mechanism, potentially leading to accidents and injuries. Relying solely on visual checks by an individual for door portal supervision is inadequate.
 
-To exclude the proposed methods of testing the portal of doors on the Krymskaya platform of the Moscow Central Ring.
+To address these concerns, alternative approaches for assessing the door portal on the Krymskaya platform of the Moscow Central Ring are being explored and implemented.
